@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&display=swap');
+
+header {
+background: #ffe8d6;
+text-align: right;
+}
+
+header ul li {
+    display: inline;
+    margin: 70px;
+    font-family: 'Hurricane', cursive;
+    font-size: 30px;
+}
+
+body{
+    background: #ddbea9;
+}
+
+img{
+    border-radius: 10vh;
+    width: 100px;
+    margin-left: 80px;
+    position: relative;
+    left: -1110px;
+    top: 25px;  
+}
